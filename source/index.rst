@@ -22,6 +22,5 @@ JetAuto
    docs/9.voice_control.md
    docs/10.Movelt_Gazebo_simulation.md
    docs/11.Large_AI_Model_Courses.md
-   docs/11.Large_AI_Model_Courses.md
    docs/resources_download.md
    Download <https://drive.google.com/drive/folders/1AdtGPZs15ZxV2N0FR-1v13G8QhGK1Lry?usp=sharing>
