@@ -6,7 +6,7 @@
 # -- Project information -----------------------------------------------------
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#project-information
 
-project = 'JetAuto'
+project = 'JetAuto &JetAuto Pro (Orin Nano Version)'
 copyright = '2025, Hiwonder'
 author = 'Hiwonder'
 release = 'v1.0'
@@ -27,6 +27,8 @@ myst_enable_extensions = [
     "attrs_block",
     "colon_fence",
     "substitution",
+    "amsmath",
+    "dollarmath",
 ]
 
 

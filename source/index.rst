@@ -4,12 +4,12 @@
    contain the root `toctree` directive.
 
 ===========
-JetAuto
+JetAuto & JetAuto Pro (Orin Nano Version)
 ===========
 
 .. toctree::
    :maxdepth: 2
-   :caption: JetAuto
+   :caption: JetAuto & JetAuto Pro
 
    docs/1.quick_start_guide.md
    docs/2.motion_control.md
